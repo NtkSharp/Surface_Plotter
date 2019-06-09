@@ -32,6 +32,8 @@ public class Surface_Plotter : MonoBehaviour
 
     //Parameters for the mesh
     Mesh Surface;
+    
+    //Set the material for the mesh
     public Material Mymaterial;
     public float XMove = 0;
     public float ZMove = 0;
